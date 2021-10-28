@@ -1,0 +1,11 @@
+
+/*
+hôm nay học tập tin -> struct(kiểu dữ liệu cấu trúc)
+TẬP TIN(TXT, XLSX, .DOC)
++ TẬP TIN VĂN BẢN, TẬP NHỊ PHÂN
++ dùng để đọc dữ liệu vào trương trình
++ ghi dữ liệu từ file vào trong trương trình
+tập tin để ghi dữ liệu xuống file(txt)
+ofstream
+ofstream
+*/
